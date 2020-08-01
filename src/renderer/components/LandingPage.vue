@@ -1,6 +1,7 @@
 <template>
   <div id="wrapper">
     <img id="logo" src="~@/assets/logo.png" alt="electron-vue">
+    <el-button type="primary">默认按钮</el-button>
     <main>
       <div class="left-side">
         <span class="title">
